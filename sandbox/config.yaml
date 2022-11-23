@@ -1,5 +1,5 @@
 output_path: 
-- C:\\Users\\victo\\PycharmProjects\\BibtexDataQuality\\output\\
+- C:\\Users\\Maiyuri\\Documents\\trabalho python\\BibtexDataQuality\\output
 output_ext:
 - json
 file_name:
@@ -10,3 +10,5 @@ search_value:
 - "2021"
 search_operator:
 - '=='
+content_type:
+- Courses
