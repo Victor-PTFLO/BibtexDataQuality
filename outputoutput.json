@@ -3484,6 +3484,469 @@
         "scimago_value": null
     },
     {
+        "issnkey": "",
+        "isbn": "9781450389945",
+        "journal": null,
+        "publisher": "Association for Computing Machinery",
+        "title": "opportunitiesandchallengesofmarketinginthecontextofbigdata",
+        "booktitle": "2021 Workshop on Algorithm and Big Data",
+        "doi": "10.1145/3456389.3456390",
+        "author": [
+            "Cao, Shuangshuang"
+        ],
+        "keywords": [
+            "Big data, Marketing, Personalized service"
+        ],
+        "abstract": "In the era of big data, under the conditions of rapid economic development in our country, various enterprises have also vigorously carried out marketing. In the context of big data, marketing research should be strengthened to effectively improve market. Market issues ensure that marketing has improved its status in the era of big data. This article has conducted a research and analysis on marketing in the context of big data. And then the opportunities and challenges of marketing in the context of big data has been explained, which gradually optimize the marketing implementation effect. The challenges faced by marketing has been understood which ensures that the big data model plays its best role in it.",
+        "year": "2021",
+        "type_publication": "inproceedings",
+        "jcr_value": null,
+        "scimago_value": null
+    },
+    {
+        "issnkey": "",
+        "isbn": "9781450389914",
+        "journal": null,
+        "publisher": "Association for Computing Machinery",
+        "title": "customizedeagerlazydatacleansingforsatisfactorybigdataveracity",
+        "booktitle": "Proceedings of the 25th International Database Engineering &amp; Applications Symposium",
+        "doi": "10.1145/3472163.3472195",
+        "author": [
+            "Sahri, Soror",
+            "Moussa, Rim"
+        ],
+        "keywords": [
+            "Big data, Veracity"
+        ],
+        "abstract": "Big data systems are becoming mainstream for big data management either for batch processing or real-time processing. In order to extract insights from data, quality issues are very important to address, particularly. A veracity assessment model is consequently needed. In this paper, we propose a model which ties quality of datasets and quality of query resultsets. We particularly examine quality issues raised by a given dataset, order attributes along their fitness for use and correlate veracity metrics to business queries. We validate our work using the open dataset NYC taxi\u2019 trips.",
+        "year": "2021",
+        "type_publication": "inproceedings",
+        "jcr_value": null,
+        "scimago_value": null
+    },
+    {
+        "issnkey": "",
+        "isbn": "9781450389914",
+        "journal": null,
+        "publisher": "Association for Computing Machinery",
+        "title": "rigorousmeasurementmodelforvalidityofbigdatamegaapproach",
+        "booktitle": "Proceedings of the 25th International Database Engineering &amp; Applications Symposium",
+        "doi": "10.1145/3472163.3472171",
+        "author": [
+            "Bhardwaj, Dave",
+            "Ormandjieva, Olga"
+        ],
+        "keywords": [
+            "Quality Characteristics (V's), Representational Theory of Measurement,, Validity, Big Data, Measurement Hierarchical Model"
+        ],
+        "abstract": "Big Data is becoming a substantial part of the decision-making processes in both industry and academia, especially in areas where Big Data may have a profound impact on businesses and society. However, as more data is being processed, data quality is becoming a genuine issue that negatively affects credibility of the systems we build because of the lack of visibility and transparency of the underlying data. Therefore, Big Data quality measurement is becoming increasingly necessary in assessing whether data can serve its purpose in a particular context (such as Big Data analytics, for example). This research addresses Big Data quality measurement modelling and automation by proposing a novel quality measurement framework for Big Data (MEGA) that objectively assesses the underlying quality characteristics of Big Data (also known as the V's of Big Data) at each step of the Big Data Pipelines. Five of the Big Data V's (Volume, Variety, Velocity, Veracity and Validity) are currently automated by the MEGA framework. In this paper, a new theoretically valid quality measurement model is proposed for an essential quality characteristic of Big Data, called Validity. The proposed measurement information model for Validity of Big Data is a hierarchy of 4 derived measures / indicators and 5 based measures. Validity measurement is illustrated on a running example.",
+        "year": "2021",
+        "type_publication": "inproceedings",
+        "jcr_value": null,
+        "scimago_value": null
+    },
+    {
+        "issnkey": "",
+        "isbn": "9781450389099",
+        "journal": null,
+        "publisher": "Association for Computing Machinery",
+        "title": "researchonsmarteducationserviceplatformbasedonbigdata",
+        "booktitle": "Proceedings of the 2020 3rd International Conference on E-Business, Information Management and Computer Science",
+        "doi": "10.1145/3453187.3453340",
+        "author": [
+            "Hu, Zhifeng",
+            "Zhao, Feng",
+            "Zhao, Xiaona"
+        ],
+        "keywords": [
+            "Information-oriented education, Big data, Smart education"
+        ],
+        "abstract": "The big data technology can be applied to build the education service platforms and construct the big data analysis and application system as well as the multi-dimensional perception system. The big data analysis assists in the teaching process and breaks the temporal and spatial restrictions of educational resources, to realize the diversification of educational resources and improve the effectiveness of teaching feedback. This paper proposes a smart education service platform based on big data, which can promote the organic integration of educational communication, educational research, learning activities, teaching affairs administration, and information infrastructures. At the same time, the platform provides smarter, more efficient, and accurate services for teaching.",
+        "year": "2021",
+        "type_publication": "inproceedings",
+        "jcr_value": null,
+        "scimago_value": null
+    },
+    {
+        "issnkey": "",
+        "isbn": "9781450387750",
+        "journal": null,
+        "publisher": "Association for Computing Machinery",
+        "title": "avisualmethodforshipcloseencounterpatternrecognitionbasedonfuzzytheoryandbigdataintelligence",
+        "booktitle": "2020 the 4th International Conference on Big Data Research (ICBDR'20)",
+        "doi": "10.1145/3445945.3445962",
+        "author": [
+            "Zhao, Liangbin",
+            "Fu, Xiuju"
+        ],
+        "keywords": [
+            "Ship encounter, Visualization, AIS data, Fuzzy theory"
+        ],
+        "abstract": "As an important application of big data technology in the maritime field, big data driven visualization of ship encounter patterns helps to intuitively understand the risk situation in the water traffic. However traditional methods based on fixed thresholds do not consider the fuzziness of classification on ship encounter situations. We proposed a visual method to visualize the risk situations caused by the interaction between vessel traffic flows in more detail based on fuzzy theory and big data intelligence on large scale AIS data. A case study is conducted to verify the applicability based on the AIS data from Singapore Strait. Visualization results of density in grids show that the proposed method can effectively reflect the ship encounter patterns, which are consistent with the real situation and can show more valuable details for the safety assessment of water traffic.",
+        "year": "2021",
+        "type_publication": "inproceedings",
+        "jcr_value": null,
+        "scimago_value": null
+    },
+    {
+        "issnkey": "",
+        "isbn": "9781450377119",
+        "journal": null,
+        "publisher": "Association for Computing Machinery",
+        "title": "abigdataarchitecturetoamultiplepurposeinhealthcaresurveillancethebraziliansyphiliscase",
+        "booktitle": "Proceedings of the 10th Euro-American Conference on Telematics and Information Systems",
+        "doi": "10.1145/3401895.3402092",
+        "author": [
+            "Silva, Rodrigo",
+            "Ara\\'{u}jo, Jean",
+            "Paiva, \\'{A}lvaro",
+            "Medeiros, Ricardo",
+            "Coutinho, Karilany",
+            "Paiva, Jailton",
+            "Roussanaly, Azim",
+            "Boyer, Anne"
+        ],
+        "keywords": [
+            "big data, epidemiology, healthcare surveillance, syphilis"
+        ],
+        "abstract": "For many decades society did need to monitor and assess the standard of living of the population. In the 1950s, the United Nations (UN) saw this need and proposed 12 areas that should be evaluated, the first of which is listed under \"Health and Demography\", which focuses on what is expressed as the level of a population's health. Decades have passed and great results have been gained from similar initiatives such as reducing mortality from infectious diseases and even eradicating some others. In the age of the digital society, needs have grown. Monitoring demands that once perished from data to become concrete now suffer from the opposite effect, the excess of data from everywhere. Healthcare systems around the world use many different information systems, collecting and generating hundreds of data at unimaginable speed. We are billions of people on the planet and most of us are connected to the virtual world, sharing information, experiences and events with some kind of cloud. In this information age, the ability to aggregate and process this data is a major factor in raising public health to a new level. The development of tools capable of analyzing a large volume of data in seconds and producing knowledge for targeted decision making can help in the fight against specific diseases, in the process of continuing education of professionals, in the formation of new professionals, in the elaboration of new policies. with the specific locoregional look, in the analysis of hidden trends in front of so much information faced in everyday life and other possibilities. The present work proposes an architecture capable of storing and manipulating seeking to standardize the variables in order to allow to correlate this large amount of data in a systematic way, providing to several services and researchers the possibility of consuming health, social, economic and educational data for the promotion of public health.",
+        "year": "2021",
+        "type_publication": "inproceedings",
+        "jcr_value": null,
+        "scimago_value": null
+    },
+    {
+        "issnkey": "2158656x",
+        "isbn": null,
+        "journal": "ACM Trans. Manage. Inf. Syst.",
+        "publisher": "Association for Computing Machinery",
+        "title": "novelmachinelearningforbigdataanalyticsinintelligentsupportinformationmanagementsystems",
+        "booktitle": null,
+        "doi": "10.1145/3469890",
+        "author": [
+            "Lv, Zhihan",
+            "Lou, Ranran",
+            "Feng, Hailin",
+            "Chen, Dongliang",
+            "Lv, Haibin"
+        ],
+        "keywords": [
+            "lightGBM, intelligent support information system, accuracy rate, big data analysis, Machine learning"
+        ],
+        "abstract": "Two-dimensional1 arrays of bi-component structures made of cobalt and permalloy elliptical dots with thickness of 25 nm, length 1 mm and width of 225 nm, have been prepared by a self-aligned shadow deposition technique. Brillouin light scattering has been exploited to study the frequency dependence of thermally excited magnetic eigenmodes on the intensity of the external magnetic field, applied along the easy axis of the elements.Scientific information technology has been developed rapidly. Here, the purposes are to make people's lives more convenient and ensure information management and classification. The machine learning algorithm is improved to obtain the optimized Light Gradient Boosting Machine (LightGBM) algorithm. Then, an Android-based intelligent support information management system is designed based on LightGBM for the big data analysis and classification management of information in the intelligent support information management system. The system is designed with modules of employee registration and login, company announcement notice, attendance and attendance management, self-service, and daily tools with the company as the subject. Furthermore, the performance of the constructed information management system is analyzed through simulations. Results demonstrate that the training time of the optimized LightGBM algorithm can stabilize at about 100s, and the test time can stabilize at 0.68s. Besides, its accuracy rate can reach 89.24%, which is at least 3.6% higher than other machine learning algorithms. Moreover, the acceleration efficiency analysis of each algorithm suggests that the optimized LightGBM algorithm is suitable for processing large amounts of data; its acceleration effect is more apparent, and its acceleration ratio is higher than other algorithms. Hence, the constructed intelligent support information management system can reach a high accuracy while ensuring the error, with apparent acceleration effect. Therefore, this model can provide an experimental reference for information classification and management in various fields.",
+        "year": "2021",
+        "type_publication": "article",
+        "jcr_value": null,
+        "scimago_value": null
+    },
+    {
+        "issnkey": "19361955",
+        "isbn": null,
+        "journal": "J. Data and Information Quality",
+        "publisher": "Association for Computing Machinery",
+        "title": "editorialspecialissueonqualityassessmentandmanagementinbigdataparti",
+        "booktitle": null,
+        "doi": "10.1145/3449052",
+        "author": [
+            "Aljawarneh, Shadi",
+            "Lara, Juan"
+        ],
+        "keywords": [
+            "quality management, Quality assessment, big data"
+        ],
+        "abstract": null,
+        "year": "2021",
+        "type_publication": "article",
+        "jcr_value": null,
+        "scimago_value": null
+    },
+    {
+        "issnkey": "19361955",
+        "isbn": null,
+        "journal": "J. Data and Information Quality",
+        "publisher": "Association for Computing Machinery",
+        "title": "editorialspecialissueonqualityassessmentandmanagementinbigdatapartii",
+        "booktitle": null,
+        "doi": "10.1145/3449056",
+        "author": [
+            "Aljawarneh, Shadi",
+            "Lara, Juan"
+        ],
+        "keywords": [
+            "quality management, Quality assessment, big data"
+        ],
+        "abstract": null,
+        "year": "2021",
+        "type_publication": "article",
+        "jcr_value": null,
+        "scimago_value": null
+    },
+    {
+        "issnkey": "",
+        "isbn": "9781450387828",
+        "journal": null,
+        "publisher": "Association for Computing Machinery",
+        "title": "humanresourcedataqualitymanagementbasedonmultipleregressionanalysis",
+        "booktitle": "Proceedings of the 2020 International Conference on Cyberspace Innovation of Advanced Technologies",
+        "doi": "10.1145/3444370.3444614",
+        "author": [
+            "Zhang, Yong"
+        ],
+        "keywords": [
+            "Multiple regression analysis, human resources, data quality"
+        ],
+        "abstract": "The essence of human resource management informatization is data. Firstly, human information is transformed into data, and then the data can be used. This requires that the comprehensive, complete, timely and effective human resource data is entered into the system, and then the data is analyzed by using the human resource management system to provide decision support for the management. Due to the complexity of the internal law of objective things and the limitation of people's cognition, it is impossible to analyze the internal causality of the actual object and establish a mathematical model in accordance with the mechanism law. Therefore, when some mathematical models cannot be established by mechanism analysis, we usually adopt the method of collecting a large amount of data, and establish the model based on the statistical analysis of the data. Among them, the most widely used random model is statistical regression model.",
+        "year": "2021",
+        "type_publication": "inproceedings",
+        "jcr_value": null,
+        "scimago_value": null
+    },
+    {
+        "issnkey": "",
+        "isbn": "9781450385015",
+        "journal": null,
+        "publisher": "Association for Computing Machinery",
+        "title": "applicationstrategiesofmedicalbigdatainhealtheconomicmanagement",
+        "booktitle": "The Sixth International Conference on Information Management and Technology",
+        "doi": "10.1145/3465631.3465664",
+        "author": [
+            "Yu, Xiaomu",
+            "Yin, Yuelin"
+        ],
+        "keywords": [
+            ""
+        ],
+        "abstract": "NOTICE OF RETRACTION: While investigating potential publication-related misconduct in connection with the ICIMTech 2021 Conference Proceedings, serious concerns were raised that cast doubt on the integrity of the peer-review process and all papers published in the Proceedings of this Conference. The integrity of the entire Conference has been called into question. As a result, of its investigation, ACM has decided to retract the Entire Conference Proceedings and all related papers from the ACM Digital Library.None of the papers from this Proceeding should be cited in the literature because of the questionable integrity of the peer review process for this Conference.",
+        "year": "2021",
+        "type_publication": "inproceedings",
+        "jcr_value": null,
+        "scimago_value": null
+    },
+    {
+        "issnkey": "26911922",
+        "isbn": null,
+        "journal": "ACM/IMS Trans. Data Sci.",
+        "publisher": "Association for Computing Machinery",
+        "title": "deephashbasedrelevanceawaredataqualityassessmentforimagedarkdata",
+        "booktitle": null,
+        "doi": "10.1145/3420038",
+        "author": [
+            "Liu, Yu",
+            "Wang, Yangtao",
+            "Gao, Lianli",
+            "Guo, Chan",
+            "Xie, Yanzhao",
+            "Xiao, Zhili"
+        ],
+        "keywords": [
+            "CPR, data quality assessment, GAH, relevance, data mining, Resource allocation"
+        ],
+        "abstract": "Data mining can hardly solve but always faces a problem that there is little meaningful information within the dataset serving a given requirement. Faced with multiple unknown datasets, to allocate data mining resources to acquire more desired data, it is necessary to establish a data quality assessment framework based on the relevance between the dataset and requirements. This framework can help the user to judge the potential benefits in advance, so as to optimize the resource allocation to those candidates. However, the unstructured data (e.g., image data) often presents dark data states, which makes it tricky for the user to understand the relevance based on content of the dataset in real time. Even if all data have label descriptions, how to measure the relevance between data efficiently under semantic propagation remains an urgent problem. Based on this, we propose a Deep Hash-based Relevance-aware Data Quality Assessment framework, which contains off-line learning and relevance mining parts as well as an on-line assessing part. In the off-line part, we first design a Graph Convolution Network (GCN)-AutoEncoder hash (GAH) algorithm to recognize the data (i.e., lighten the dark data), then construct a graph with restricted Hamming distance, and finally design a Cluster PageRank (CPR) algorithm to calculate the importance score for each node (image) so as to obtain the relevance representation based on semantic propagation. In the on-line part, we first retrieve the importance score by hash codes and then quickly get the assessment conclusion in the importance list. On the one hand, the introduction of GCN and co-occurrence probability in the GAH promotes the perception ability for dark data. On the other hand, the design of CPR utilizes hash collision to reduce the scale of graph and iteration matrix, which greatly decreases the consumption of space and computing resources. We conduct extensive experiments on both single-label and multi-label datasets to assess the relevance between data and requirements as well as test the resources allocation. Experimental results show our framework can gain the most desired data with the same mining resources. Besides, the test results on Tencent1M dataset demonstrate the framework can complete the assessment with a stability for given different requirements.",
+        "year": "2021",
+        "type_publication": "article",
+        "jcr_value": null,
+        "scimago_value": null
+    },
+    {
+        "issnkey": "",
+        "isbn": "9781450390057",
+        "journal": null,
+        "publisher": "Association for Computing Machinery",
+        "title": "anempiricalstudyontheclassificationgradingsharingandopeningofhealthcarebigdatabasedoncurrentpoliciesandstandards",
+        "booktitle": "2021 3rd International Conference on Intelligent Medicine and Image Processing",
+        "doi": "10.1145/3468945.3468964",
+        "author": [
+            "Hou, Hanfang",
+            "Fu, Qiang",
+            "Zhang, Yang"
+        ],
+        "keywords": [
+            "Healthcare big data, Grading, Opening, Sharing, Classification"
+        ],
+        "abstract": "This paper expounds the connotations and features of healthcare big data, as well as the concepts and logical relations for its classification, grading, sharing and opening. It also summarizes overseas policies related thereto and their status quo, and emphatically introduces main policies, laws, regulations and national standards regarding the classification, grading, sharing and opening of healthcare big data in China, as well as practices in three places represented by Shandong Province, Guangdong Province and Fuzhou. Finally, principles and practical suggestions for the classification, grading, sharing and opening of healthcare big data were proposed based on current polices, regulations and standards",
+        "year": "2021",
+        "type_publication": "inproceedings",
+        "jcr_value": null,
+        "scimago_value": null
+    },
+    {
+        "issnkey": "",
+        "isbn": "9781450388979",
+        "journal": null,
+        "publisher": "Association for Computing Machinery",
+        "title": "towardsthedesignofaconceptualframeworkfortheoperationofintensivecareunitsbasedonbigdataanalysis",
+        "booktitle": "24th Pan-Hellenic Conference on Informatics",
+        "doi": "10.1145/3437120.3437352",
+        "author": [
+            "Markopoulos, Dimitris",
+            "Tsolakidis, Anastasios",
+            "N., Nikitas",
+            "Skourlas, Christos"
+        ],
+        "keywords": [
+            "Conceptual Framework, Intensive Care Unit, Machine Learning, Big Data Analysis"
+        ],
+        "abstract": "The development of Big Data Analytics (BDA) technology and the maturity of the Machine Learning (ML) sector offer great opportunities for applications in Intensive Care Units (ICUs). This paper describes a Conceptual Framework and proposes its use in designing architectures and big data applications in ICUs. The Conceptual Framework is based on BDA,MLNatural Language Processing (NLP) and consists of the following subsystems: The \"Big Data Integration and ICUs\" module, the \"ICUs and critical care services\" module, the \"Use of standards and ICUs\" module, the \"Machine Learning and ICUs\" module, and the \u201cNLP and ICUs\u201d module. The framework is developed using Soft System Methodology (SSM) and Design Science Research Methodology (DSRM).",
+        "year": "2021",
+        "type_publication": "inproceedings",
+        "jcr_value": null,
+        "scimago_value": null
+    },
+    {
+        "issnkey": "",
+        "isbn": "9781450390255",
+        "journal": null,
+        "publisher": "Association for Computing Machinery",
+        "title": "environmentalbigdatamodelandrecognitionofabnormalemissionfromenterprisedata",
+        "booktitle": "2021 4th International Conference on Information Systems and Computer Aided Education",
+        "doi": "10.1145/3482632.3484095",
+        "author": [
+            "Wu, Rui",
+            "Cheng, Qian",
+            "He, Lisong",
+            "Cao, Zhenyu"
+        ],
+        "keywords": [
+            ""
+        ],
+        "abstract": null,
+        "year": "2021",
+        "type_publication": "inproceedings",
+        "jcr_value": null,
+        "scimago_value": null
+    },
+    {
+        "issnkey": "",
+        "isbn": "9781450389914",
+        "journal": null,
+        "publisher": "Association for Computing Machinery",
+        "title": "azonebaseddatalakearchitectureforiotsmallandbigdata",
+        "booktitle": "Proceedings of the 25th International Database Engineering &amp; Applications Symposium",
+        "doi": "10.1145/3472163.3472185",
+        "author": [
+            "Zhao, Yan",
+            "Megdiche, Imen",
+            "Ravat, Franck",
+            "Dang, Vincent-nam"
+        ],
+        "keywords": [
+            "Metadata, Stream IoT Data, Zone-based, Technical Architecture, Data Lake"
+        ],
+        "abstract": "Data lakes are supposed to enable analysts to perform more efficient and efficacious data analysis by crossing multiple existing data sources, processes and analyses. However, it is impossible to achieve that when a data lake does not have a metadata governance system that progressively capitalizes on all the performed analysis experiments. The objective of this paper is to have an easily accessible, reusable data lake that capitalizes on all user experiences. To meet this need, we propose an analysis-oriented metadata model for data lakes. This model includes the descriptive information of datasets and their attributes, as well as all metadata related to the machine learning analyzes performed on these datasets. To illustrate our metadata solution, we implemented a web application of data lake metadata management. This application allows users to find and use existing data, processes and analyses by searching relevant metadata stored in a NoSQL data store within the data lake. To demonstrate how to easily discover metadata with the application, we present two use cases, with real data, including datasets similarity detection and machine learning guidance.",
+        "year": "2021",
+        "type_publication": "inproceedings",
+        "jcr_value": null,
+        "scimago_value": null
+    },
+    {
+        "issnkey": "",
+        "isbn": "9781450390255",
+        "journal": null,
+        "publisher": "Association for Computing Machinery",
+        "title": "amethodofconstructingdistributedbigdataanalysismodelformachinelearningbasedoncloudcomputing",
+        "booktitle": "2021 4th International Conference on Information Systems and Computer Aided Education",
+        "doi": "10.1145/3482632.3484007",
+        "author": [
+            "Li, Jicai",
+            "Liu, Dan"
+        ],
+        "keywords": [
+            ""
+        ],
+        "abstract": "There are many big data analysis methods, and it is an effective method to build big data analysis model through machine learning. Big data is characterized by large data scale and long calculation cycle. In order to speed up the calculation speed and shorten the calculation cycle, distributed computing method is one of the effective methods to solve the above problems. With the wide application and rapid development of information technology, cloud computing as a new business computing model has attracted more and more attention. However, the security of cloud computing data storage model lacks reliability. Under the mainstream cloud computing and big data basic environment, building a better model from resource aggregation to analysis and mining, and modeling distributed big data analysis can provide high-reliability, high-security, high-efficiency analysis services for practical analysis and mining applications such as intelligence judgment, information deployment and control, stakeholder analysis and intelligent decision-making.",
+        "year": "2021",
+        "type_publication": "inproceedings",
+        "jcr_value": null,
+        "scimago_value": null
+    },
+    {
+        "issnkey": "",
+        "isbn": "9781450390255",
+        "journal": null,
+        "publisher": "Association for Computing Machinery",
+        "title": "researchontheapplicationofbigdatacloudcleaningsysteminphysicalfunctionsportstrainingmanagement",
+        "booktitle": "2021 4th International Conference on Information Systems and Computer Aided Education",
+        "doi": "10.1145/3482632.3487514",
+        "author": [
+            "Wang, Wenwen"
+        ],
+        "keywords": [
+            ""
+        ],
+        "abstract": "The main purpose of physical function training is to solve the problems of many injuries, incorrect movement patterns, movement compensation and so on. In the era of big data, the scientific research field of sports training is gradually beginning to adopt the big data model for development, which will better form a new insight after data generation, collection, analysis and transformation. Therefore, this paper analyzes the application of big data intelligent cleaning system based on cloud computing in physical function training management. Students can quickly query running results through WEB query system, and administrators can download and modify students' results through WEB system. By using big data analysis technology, students are grouped according to their physical fitness test scores and BMI index, and their sports plans are formulated accordingly. A high-reliability real-time wireless receiving and sending sports monitoring system for big data is adopted, which realizes the functions of networking, unmanned and intelligent sports management.",
+        "year": "2021",
+        "type_publication": "inproceedings",
+        "jcr_value": null,
+        "scimago_value": null
+    },
+    {
+        "issnkey": "",
+        "isbn": "9781450388825",
+        "journal": null,
+        "publisher": "Association for Computing Machinery",
+        "title": "identificationofbusinessintelligenceinbigdatamaintenanceofgovernmentsectorinputrajaya",
+        "booktitle": "2021 10th International Conference on Software and Computer Applications",
+        "doi": "10.1145/3457784.3457816",
+        "author": [
+            "Farhana, Ain",
+            "Najib, Muhammad",
+            "jalil, Rohaya",
+            "Othman, Hajar",
+            "Adnan, Yasmin"
+        ],
+        "keywords": [
+            "Maintenance Management, Data Management,, Business Intelligence"
+        ],
+        "abstract": "This paper contributes significantly, which focuses on an intelligent system that lets the government make an integral part of decision-making and can be applied horizontally to solve the problems in maintenance practice through business intelligence. Accordingly, a real-time data management system for maintenance management is proposed in this paper. It looks at a real case study highlighting the need for proper data management in the government sector. Our findings bridge the gap of information technology inserted in government office buildings, with maintenance management being the domain. This paper demonstrates the underlying structure of the developed simulation model.",
+        "year": "2021",
+        "type_publication": "inproceedings",
+        "jcr_value": null,
+        "scimago_value": null
+    },
+    {
+        "issnkey": "",
+        "isbn": "9781450385626",
+        "journal": null,
+        "publisher": "Association for Computing Machinery",
+        "title": "wouldyoulikeaquickpeekprovidingloggingsupporttomonitordataprocessinginbigdataapplications",
+        "booktitle": "Proceedings of the 29th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "doi": "10.1145/3468264.3468613",
+        "author": [
+            "Wang, Zehao",
+            "Zhang, Haoxiang",
+            "Chen, Tse-Hsun",
+            "Wang, Shaowei"
+        ],
+        "keywords": [
+            "Logging, Monitoring, Apache Spark"
+        ],
+        "abstract": "To analyze large-scale data efficiently, developers have created various big data processing frameworks (e.g., Apache Spark). These big data processing frameworks provide abstractions to developers so that they can focus on implementing the data analysis logic. In traditional software systems, developers leverage logging to monitor applications and record intermediate states to assist workload understanding and issue diagnosis. However, due to the abstraction and the peculiarity of big data frameworks, there is currently no effective monitoring approach for big data applications. In this paper, we first manually study 1,000 randomly sampled Spark-related questions on Stack Overflow to study their root causes and the type of information, if recorded, that can assist developers with motioning and diagnosis. Then, we design an approach, DPLOG, which assists developers with monitoring Spark applications. DPLOG leverages statistical sampling to minimize performance overhead and provides intermediate information and hint/warning messages for each data processing step of a chained method pipeline. We evaluate DPLOG on six benchmarking programs and find that DPLOG has a relatively small overhead (i.e., less than 10% increase in response time when processing 5GB data) compared to without using DPLOG, and reduce the overhead by over 500% compared to the baseline. Our user study with 20 developers shows that DPLOG can reduce the needed time to debug big data applications by 63% and the participants give DPLOG an average of 4.85/5 for its usefulness. The idea of DPLOG may be applied to other big data processing frameworks, and our study sheds light on future research opportunities in assisting developers with monitoring big data applications.",
+        "year": "2021",
+        "type_publication": "inproceedings",
+        "jcr_value": null,
+        "scimago_value": null
+    },
+    {
+        "issnkey": "",
+        "isbn": "9781450390255",
+        "journal": null,
+        "publisher": "Association for Computing Machinery",
+        "title": "thearchitectureandsecuritydesignofbigdataplatformofthephysicalteachinginformationsystemincollegesanduniversities",
+        "booktitle": "2021 4th International Conference on Information Systems and Computer Aided Education",
+        "doi": "10.1145/3482632.3483061",
+        "author": [
+            "Han, Caibao"
+        ],
+        "keywords": [
+            ""
+        ],
+        "abstract": "This paper constructs the logic structure of big data platform of physical teaching information system in Colleges and universities through Hadoop distributed system, which ensures the realization of management and monitoring function, data collection function, data storage and query function, data calculation function, security and management function. The security design is carried out from access control, data authorization and management, Hadoop security configuration to deal with the possible security problems of big data platform.",
+        "year": "2021",
+        "type_publication": "inproceedings",
+        "jcr_value": null,
+        "scimago_value": null
+    },
+    {
         "issnkey": "20960654",
         "isbn": null,
         "journal": "Big Data Mining and Analytics",
